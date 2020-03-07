@@ -1,0 +1,22 @@
+{
+	"swiperList": [
+        {
+        	"id":0,
+            "clickUrl": "#",
+            "desc": "1",
+            "src": "http://b1-q.mafengwo.net/s9/M00/F8/D2/wKgBs1bGk26AG8SxAAc1VxRhB3M83.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90"
+        },
+        {
+        	"id":1,
+            "clickUrl": "#",
+            "desc": "2",
+            "src": "http://n1-q.mafengwo.net/s9/M00/84/DF/wKgBs1bIAGWACe2XABBBL_SPJHo92.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90"
+        },
+        {
+        	"id":2,
+            "clickUrl": "#",
+            "desc": "3",
+            "src": "http://b1-q.mafengwo.net/s9/M00/09/0C/wKgBs1bGsBeAAPEkAA0-svQJkWc19.jpeg?imageMogr2%2Fthumbnail%2F1360x%2Fstrip%2Fquality%2F90"
+        }
+    ]
+}
